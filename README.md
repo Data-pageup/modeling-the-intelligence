@@ -155,18 +155,3 @@ The code is intentionally written in a teaching-oriented manner, with examples a
 
 ## Repository Structure
 
-```text
-Machine-Learning-Deep-Learning-AI/
-│
-├── 01_Python/
-├── 02_NumPy/
-├── 03_Pandas/
-├── 04_Statistics/
-├── 05_Machine_Learning/
-├── 06_Deep_Learning/
-├── 07_NLP/
-├── 08_Generative_AI/
-├── 09_Datasets/
-│
-├── requirements.txt
-└── README.md
